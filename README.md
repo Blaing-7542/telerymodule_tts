@@ -1,1 +1,1 @@
-# telerymodule_tts
+# Модуль tts для юзербота Telery.
